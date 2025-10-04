@@ -1,0 +1,8 @@
+title: Control Notes
+description: Process Control Notes
+theme: minima
+header_pages:
+  - index.md
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
