@@ -21,4 +21,4 @@ It is still under construction but in the coming weeks will be populated with an
 ## About the author
 Dr Mark J. Willis
 Process Control Engineer / Lecturer  
-📧 [mark29464@gmail.com](mailto:your.email@example.com)  
+📧 [mark29464@gmail.com](mailto:mark29464@gmail.com)  
