@@ -6,3 +6,5 @@ header_pages:
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+github_username: ProcessControlNotes
+# email: mark29464@gmail.com
