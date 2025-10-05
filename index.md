@@ -1,8 +1,9 @@
+
 ---
 layout: page
 title: Home
+permalink: /
 ---
-
 # Control Notes
 
 Notes on process dynamics and chemical process control
