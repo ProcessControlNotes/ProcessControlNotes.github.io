@@ -1,9 +1,15 @@
 ---
 layout: page
-permalink: /Introduction/
+title: Introduction
+permalink: /introduction/
 ---
 
 # Introduction
 
+Welcome to the **Introduction** section of Process Control Notes.  
+
+---
+
+### 📘 Contents
 - [Overview](./Overview.html)
-- [An everyday example of process control](./first-principles.html)
+- [First Principles](./first-principles.html)
