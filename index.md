@@ -12,6 +12,7 @@ Welcome! To notes on process dynamics and chemical process control
 - P&IDs
 - Laplace transforms
 - Block diagrams and block diagram algebra
-- 
 
-> Equation test: \( z = e^{sT} = e^{\sigma T} (\cos \omega T + j\sin \omega T) \)
+Jump to a section:
+
+- [Introduction](/introduction/)
