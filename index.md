@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Home
 permalink: /
 ---
 
-# Control Notes
+# Overview
 
-Notes on process dynamics and chemical process control
+This site provides notes on process dynamics and chemical process control.
+It is still under construction but in the coming weeks will be populated with an extensive set of notes.
 
 ## Topics (coming soon)
 
@@ -14,6 +14,8 @@ Notes on process dynamics and chemical process control
 - P&IDs
 - Laplace transforms
 - Block diagrams and block diagram algebra
+- Mechanistic and data based modelling
+- Feedback control
 
 ## Topics (under construction)
 - [Introduction](/introduction/)
