@@ -1,15 +1,10 @@
-title: Process Control Notes
-description: Notes, examples and references for chemical process control
-theme: minima
-header_pages:
-  - index.md
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  
-github_username: ProcessControlNotes
-# email: mark29464@gmail.com
 
-# Show these in the top nav
+title: Process Control Notes
+description: Notes, examples and references for process control
+theme: minima
+
+minima:
+  skin: auto
+
 header_pages:
   - introduction/index.md
