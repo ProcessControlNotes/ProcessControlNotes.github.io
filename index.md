@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# Overview
-
 This site provides notes on process dynamics and chemical process control.
 It is still under construction but in the coming weeks will be populated with an extensive set of notes.
 
