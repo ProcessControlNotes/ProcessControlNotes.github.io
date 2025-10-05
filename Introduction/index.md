@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduction/
+permalink: /
 ---
 
-# Contents
+# Introduction
 
 - [Overview](./intro-overview.html)
 - [An everyday example of process control](./first-principles.html)
