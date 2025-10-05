@@ -5,5 +5,5 @@ permalink: /introduction/
 
 # Contents
 
-- [Intro Overview](./intro-overview.html)
-- [First Principles](./first-principles.html)
+- [Overview](./intro-overview.html)
+- [An everyday example of process control](./first-principles.html)
