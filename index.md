@@ -5,7 +5,7 @@ title: Home
 
 # Control Notes
 
-Welcome! To notes on process dynamics and chemical process control
+Notes on process dynamics and chemical process control
 
 ## Topics (coming soon)
 - Introduction
@@ -13,6 +13,6 @@ Welcome! To notes on process dynamics and chemical process control
 - Laplace transforms
 - Block diagrams and block diagram algebra
 
-Jump to a section:
+## Topics (under-construction)
 
 - [Introduction](/introduction/)
